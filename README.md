@@ -17,6 +17,12 @@
 + Student 2: b.R+c.D+a.V
 + Student 3: c.R+a.D+b.V
 
+## Statistical grades for mid-term
++ Total score: 20
++ Average: 14.41
++ Median: 14.9
++ My score: 18.2
+
 ## Projects
 
 ### 1. Elevator
