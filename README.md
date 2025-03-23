@@ -17,7 +17,8 @@
 + Student 2: b.R+c.D+a.V
 + Student 3: c.R+a.D+b.V
 
-## Statistical grades for mid-term
+## Statistics for mid-term
+
 + Total score: 20
 + Average: 14.41
 + Median: 14.9
